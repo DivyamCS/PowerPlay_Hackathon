@@ -1,0 +1,14 @@
+{
+  "team_name": "Sample Team",
+  "github_repo": "https://github.com/DivyamCS/PowerPlay_Hackathon",
+  "members": [
+    {
+      "name": "Divyam",
+      "roll_no": "250101038"
+    },
+    {
+      "name": "Jahanvi Agrawal",
+      "roll_no": "250101045"
+    }
+  ]
+}
